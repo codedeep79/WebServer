@@ -1,4 +1,4 @@
-# Web Server - C++
+# Web Server C++
 Feature:
 
 - Cross-platform: works on Linux/UNIX, MacOS, QNX, eCos, Windows, Android, iPhone, FreeRTOS (TI CC3200, ESP8266), etc
