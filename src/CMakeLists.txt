@@ -4,5 +4,5 @@ set(CMAKE_C_FLAGS "-Wall -g")
 # that match the specified expressions (*.c *.cpp and *.h) and assign the resulting files 
 # to the variables SRCS.
 file(GLOB SRCS *.c *.cpp *.h)
-# Define the target application executable, list of C source and header files needed for the executable 
+# Define the target application executable, list of C source and header files needed for the executable.
 add_executable(WebServer ${SRCS})
